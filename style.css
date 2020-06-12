@@ -16,8 +16,14 @@ body {
 
 .title {
   font-size: 4em;
+  color: #174885;
 }
 
 .section-title {
   font-size: 3em;
+  color: #3278cf;
+}
+
+.container {
+  margin: 10vh;
 }
