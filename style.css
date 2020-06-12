@@ -13,3 +13,11 @@ body {
 .section-title {
   text-transform: uppercase;
 }
+
+.title {
+  font-size: 4em;
+}
+
+.section-title {
+  font-size: 3em;
+}
